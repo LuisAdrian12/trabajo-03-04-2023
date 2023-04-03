@@ -1,0 +1,13 @@
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Luis\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Luis\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Luis\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Luis\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Luis\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
